@@ -1,0 +1,5 @@
+-- Q: How many players play each position?
+
+-- A: Let's ask SQL Server and find out...
+
+EXEC dbo.usp_Position
